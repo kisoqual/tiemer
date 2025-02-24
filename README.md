@@ -5,7 +5,11 @@
 
 ---
 
-<iframe src="https://itch.io/embed/3353945" width="552" height="167" frameborder="0"><a href="https://kisoqual.itch.io/tiemer">Tiemer by kisoqual</a></iframe>
+<p align="center">
+  <a href="https://kisoqual.itch.io/tiemer">
+    <img src="https://images.squarespace-cdn.com/content/v1/5c88336eda50d31190b37459/1607113648823-8RXVPLIWLVJ9TV1BVLG8/itch+badge-color.png" width=128px>
+  </a>
+</p>
 
 # Installing & using
 To install this program, you need to run executable and place where you want.<br>
