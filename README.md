@@ -17,4 +17,4 @@ You can use though console since is a cli program, but you can also run as execu
 
 # Building
 You can try to modify and build with anything else, but if you using VS, it needs at least 2019 version.<br>
-Building this program is easy, just press `Ctrl`+`B` or press a `📥` build button.
+Building this program is easy, just press `Ctrl`+`B` or press `📥` build button.
