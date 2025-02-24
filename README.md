@@ -1,8 +1,7 @@
-<center>
-  <img src="https://github.com/kisoqual/tiemer/raw/refs/heads/master/tiemer.svg" width=128 height=128>
-</center>
-
-just a simple timer for your **terminal**
+<p align="center">
+  <img src="https://github.com/kisoqual/tiemer/raw/refs/heads/master/tiemer.svg" width=128 height=128><br>
+  just a simple timer for your <b>terminal</b>
+</p>
 
 ---
 
