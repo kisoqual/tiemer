@@ -11,6 +11,14 @@
   </a>
 </p>
 
+# System requirements
+
+minimal:
+- potato that runs windows... or wine
+
+recommended:
+- a console that supports ANSI escape codes (colors and beep)
+
 # Installing & using
 To install this program, you need to run executable and place where you want.<br>
 You can use though console since is a cli program, but you can also run as executable icon.
